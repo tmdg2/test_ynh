@@ -1,4 +1,6 @@
 SOURCE_URL=https://github.com/pterodactyl/panel/releases/download/v1.11.3/panel.tar.gz
+SOURCE_SUM=03c0a5ea4a7955d030d761ea9645beadbcc052fe218886e914637f0cda69c45889a51de64b4857ede28c3636968c45dca762d604f6567cac5d57bef54c1a89bc
+SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=false
 SOURCE_FILENAME=
