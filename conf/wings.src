@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/pterodactyl/wings/releases/download/v1.11.5/wings_linux_amd64
-SOURCE_SUM=899694560421a35f41e6a421d4d3ee4f07fdf54ce917ec3c4b4a253bc6d8bd7f
+SOURCE_URL=https://github.com/pterodactyl/wings/releases/download/v1.11.3/wings_linux_amd64
+SOURCE_SUM=a5ec554220b721d2cf0b6dd795611f1575d22e650dd2ba415ed4ec1a0295e6f3
 SOURCE_SUM_PRG=sha256sum
 SOURCE_IN_SUBDIR=false
 SOURCE_FILENAME=wings
